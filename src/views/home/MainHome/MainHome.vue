@@ -1,7 +1,7 @@
 <template>
   <div>
-    <MainSider></MainSider>
     <Headerr></Headerr>
+    <MainSider></MainSider>
     <!-- 其他页面内容 -->
   </div>
 </template>

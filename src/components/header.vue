@@ -59,4 +59,13 @@ export default {
 .flex-grow {
     flex-grow: 1;
 }
+
+.router-link-active {
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
 </style>

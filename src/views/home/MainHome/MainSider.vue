@@ -124,7 +124,7 @@ export default {
 <style scoped>
 .sidebar-cont {
   position: fixed;
-  top: 120px;
+  top: 135px;
   left: 0;
   bottom: 50px;
   background: #ffffff;
